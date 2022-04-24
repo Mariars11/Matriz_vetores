@@ -1,5 +1,3 @@
-//Nome: Maria Clara Rodrigues Silva
-//Matrícula: UC21100014
 #include <stdio.h>
 
 int main(){
